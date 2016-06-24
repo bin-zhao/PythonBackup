@@ -1,0 +1,7 @@
+/versionstool/afanty3.3/src/game/view/revive/ReviveLayer.js
+/versionstool/afanty3.3/res/other/data/MessagePay_data.txt
+/versionstool/afanty3.3/src/payment/PaymentManager.js
+/versionstool/afanty3.3/src/play/mainlayer/RunGameLayer.js
+/versionstool/afanty3.3/src/game/view/stage/NewStageMediator.js
+/versionstool/afanty3.3/src/game/server/TaskServer.js
+/versionstool/afanty3.3/src/game/server/UserServer.js

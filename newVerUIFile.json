@@ -1,0 +1,95 @@
+{
+
+
+	"ID": "89432ee5-69c0-46f3-bee2-8460121c62fa",
+	"Version": "3.10.0.0",
+	"Name": "MainScene",
+	"Type": "Scene",
+	"Content": {
+		"Content": {
+			"Animation": {"Duration": 0,"Speed": 1.0,"Timelines": [],"ctype": "TimelineActionData"},
+			"AnimationList": [],
+			"UsedResources": [
+				"Default/Button_Disable.png",
+				"Default/Button_Normal.png",
+				"Default/Button_Press.png"
+			],
+			"ctype": "GameFileData",
+			"ObjectData": {
+				"Tag": 5,
+				"Size": {"X": 960.0,"Y": 640.0},
+				"Name": "Scene",
+				"ctype": "SingleNodeObjectData",
+				"Children": [
+				
+					// button btnStart
+					
+					{
+						"FontSize": 10,
+						"ButtonText": "开始战斗",
+						"TextColor": {"R": 65,"G": 65,"B": 70},
+						"DisabledFileData": {"Type": "Default","Path": "Default/Button_Disable.png","Plist": ""},
+						"PressedFileData": {"Type": "Default","Path": "Default/Button_Press.png","Plist": ""},
+						"NormalFileData": {"Type": "Default","Path": "Default/Button_Normal.png","Plist": ""},
+						"Scale9Enable": true,
+						"Scale9OriginX": 15,
+						"Scale9OriginY": 11,
+						"Scale9Width": 16,
+						"Scale9Height": 14,
+						"OutlineColor": {"G": 0,"B": 0},
+						"ShadowColor": {"R": 110,"G": 110,"B": 110},
+						"ShadowOffsetX": 2.0,
+						"ShadowOffsetY": -2.0,
+						"TouchEnable": true,
+						"AnchorPoint": {"ScaleX": 0.5,"ScaleY": 0.5},
+						"Position": {"X": 616.2867,"Y": 362.4319},
+						"Scale": {"ScaleX": 2.3963,"ScaleY": 1.9346},
+						"CColor": {},
+						"IconVisible": false,
+						"PrePosition": {"X": 0.462,"Y": 0.4832},
+						"PreSize": {"X": 0.0345,"Y": 0.048},
+						"LeftMargin": 593.2867,
+						"RightMargin": 694.7133,
+						"TopMargin": 369.5681,
+						"BottomMargin": 344.4319,
+						"Tag": 6,
+						"ActionTag": -1287921578,
+						"Size": {"X": 46.0,"Y": 36.0},
+						"Name": "btnStart",
+						"ctype": "ButtonObjectData"
+					},
+					
+					// label Text_1
+					
+					{
+						"FontSize": 20,
+						"LabelText": "游戏主界面",
+						"OutlineColor": {"G": 0,"B": 0},
+						"ShadowColor": {"R": 110,"G": 110,"B": 110},
+						"ShadowOffsetX": 2.0,
+						"ShadowOffsetY": -2.0,
+						"AnchorPoint": {"ScaleX": 0.5,"ScaleY": 0.5},
+						"Position": {"X": 656.0513,"Y": 573.4658},
+						"Scale": {"ScaleX": 4.3032,"ScaleY": 5.129},
+						"CColor": {},
+						"IconVisible": false,
+						"PrePosition": {"X": 0.4918,"Y": 0.7646},
+						"PreSize": {"X": 0.075,"Y": 0.0267},
+						"LeftMargin": 606.0513,
+						"RightMargin": 627.9487,
+						"TopMargin": 166.5342,
+						"BottomMargin": 563.4658,
+						"Tag": 8,
+						"ActionTag": 2086372626,
+						"Size": {"X": 100.0,"Y": 20.0},
+						"Name": "Text_1",
+						"ctype": "TextObjectData"
+					}
+				]
+			}
+		
+		}
+	}
+	
+	
+}
